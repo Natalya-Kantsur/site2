@@ -73,14 +73,14 @@ h1, h2, h3, h4, h5, h6 {
 
 @font-face {
   font-family: "Banny";
-  src: url("/dist/banny/Banny-Round.otf");
+  src: url("Banny-Round.otf");
   /* IE9 Compat Modes */
   font-style: normal;
   font-weight: bold;
   text-rendering: optimizeLegibility;
 }
 .header {
-  background-image: url("/img/header-bg.png");
+  background-image: url("header-bg.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav__logo {
   padding: 25px 35px;
-  background-image: url(/img/logo.svg);
+  background-image: url(logo.svg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 150px;
@@ -271,7 +271,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .team {
-  background-image: url("/img/team-bg.png");
+  background-image: url("team-bg.png");
   background-size: cover;
 }
 
@@ -332,7 +332,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .spesialties {
-  background-image: url("/img/slider1.png");
+  background-image: url("slider1.png");
   background-size: cover;
 }
 
@@ -388,7 +388,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .events {
-  background-image: url("/img/slider1.png");
+  background-image: url("slider1.png");
 }
 
 .event__block {
